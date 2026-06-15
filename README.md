@@ -1,2 +1,2 @@
-# AI-pose-detection
-pose detection
+AI pose detection
+
